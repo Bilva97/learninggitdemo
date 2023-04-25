@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: core
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: bilva
+Implementation-Vendor-Id: com.bilva.spring.springboot.core
+Build-Jdk: 1.8.0_351
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springboot
+Created-By: Maven Integration for Eclipse
+
